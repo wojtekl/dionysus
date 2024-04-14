@@ -1,4 +1,4 @@
-Winnica Eden,Przeznaczenie,Kolor owoców,Kraj pochodzenia,Nazwa,Kwas,Cukier,Liczba dni dojrzewania,Pora dojrzewania,Mrozoodporność,Odporność na choroby,Plenność,Wielkość gron [g]
+Winnica Eden[zł],Przeznaczenie,Kolor owoców,Kraj pochodzenia,Nazwa,Zawartość kwasów[g/l],Zawartość cukrów[*Bx],Liczba dni dojrzewania[d],Pora dojrzewania,Mrozoodporność[*C],Odporność na choroby,Plenność,Wielkość gron[g]
 20,Deserowa,Czerwono-Fioletowy,Rosja,217-40-3-1,,,,Wczesna,-24,Wysoka,Wysoka,500
 20,Deserowa,Jasnożółty,,7/V,,,,Wczesna,-24,Wysoka,Wysoka,300
 20,Deserowa,Żółto-Zielony,Rosja,Ajwiengo,7,18,130,Średnio Wczesna,-24,Podwyższona,Wysoka,800
@@ -25,7 +25,7 @@ Winnica Eden,Przeznaczenie,Kolor owoców,Kraj pochodzenia,Nazwa,Kwas,Cukier,Licz
 17,Deserowa,Żółto-Zielony,Ukraina,Eliegant/Elegant,9,22,115,Wczesna,-25,Wysoka,Średnio Wysoka,300
 20,Deserowa,Różowy,Rosja,Ewa,,,,Bardzo Wczesna,-24,Wysoka,Wysoka,800
 17,Deserowa,Granatowy,Kanada,Festive/Festivee,,,,Średnio Wczesna,-24,Wysoka,Wysoka,400
-12,Przerobowa,Granatowy,Francja,Foch Marsheal(Marechal Foch),8.4,20.3,90,Średnia,-28,Wysoka,Średnia,120
+12,Przerobowa,Granatowy,Francja,Foch Marsheal/Marechal Foch,8.4,20.3,90,Średnia,-28,Wysoka,Średnia,120
 15,Deserowa,Czerwono-Fioletowy,USA,Fredonia,,,,Średnio Wczesna,-30,Wysoka,Średnia,100
 20,Deserowa,Jasnożółty,Rosja,Gałachad,6,19,100,Bardzo Wczesna,-23,Podwyższona,,600
 17,Deserowa,Jasnożółty,Rosja,Gałbiena Nou/Gałbena Nou,,,,Bardzo Wczesna,-25,Podwyższona,Wysoka,400
@@ -55,7 +55,7 @@ Winnica Eden,Przeznaczenie,Kolor owoców,Kraj pochodzenia,Nazwa,Kwas,Cukier,Licz
 15,Deserowa,Granatowy,Rosja,Konkord Rosyjski,,,,Średnio Wczesna,-27,Wysoka,Średnia,120
 17,Deserowa,Jasnozielony,Rosja,Lancelot,,,130,Wczesna,-24,Wysoka,Wysoka,900
 17,Deserowa,Różowy,Ukraina,Laura,,,,Wczesna,-21,Podwyższona,Wysoka,500
-14,Przerobowa,Granatowy,Francja,Leon Milot(Leon Millot),6.5,22.2,,Średnia,-26,Wysoka,Wysoka,100
+14,Przerobowa,Granatowy,Francja,Leon Milot/Leon Millot,6.5,22.2,,Średnia,-26,Wysoka,Wysoka,100
 30,Deserowa,Różowy,Ukraina,Lija,6,18,115,Wczesna,-21,Wysoka,Wysoka,600
 17,Deserowa,Żółto-Zielony,Węgry,Lilla,6.5,17,127,Wczesna,-21,Wysoka,,250
 17,Deserowa,Żółto-Zielony,,Ładannyj-2,,,,Wczesna,-24,Wysoka,Wysoka,500
@@ -83,7 +83,7 @@ Winnica Eden,Przeznaczenie,Kolor owoców,Kraj pochodzenia,Nazwa,Kwas,Cukier,Licz
 17,Deserowa,Jasnożółty,,Pulsar,,,115,Bardzo Wczesna,-24,Podwyższona,Wysoka,600
 20,Deserowa,Żółto-Zielony,Ukraina,PZA-8-11,,,115,Bardzo Wczesna,-24,Podwyższona,Wysoka,400
 14,Przerobowa,Granatowy,Niemcy,Regent,7,21,,Średnio Wczesna,-24,Bardzo Wysoka,Bardzo Wysoka,150
-17,Deserowa,Żółto-Zielony,Bułgaria,Regina (Augustin),,,,Średnio Wczesna,-21,Wysoka,Wysoka,300
+17,Deserowa,Żółto-Zielony,Bułgaria,Regina/Augustin,,,,Średnio Wczesna,-21,Wysoka,Wysoka,300
 20,Deserowa,Różowy,USA,Reliance – bezpestkowa,7.5,19,,Wczesna,-25,Średnia,Średnio Wysoka,250
 14,Przerobowa,Granatowy,Niemcy,Rondo,,19.7,,Średnio Wczesna,-23,Podwyższona,Bardzo Wysoka,150
 20,Deserowa,Fioletowy,,Roszfor,5,18,110,Wczesna,-23,Wysoka,Wysoka,500
