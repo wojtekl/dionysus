@@ -1,8 +1,8 @@
 Winnica Eden[zł],Przeznaczenie,Kolor owoców,Kraj pochodzenia,Nazwa,Zawartość kwasów[g/l],Zawartość cukrów[*Bx],Liczba dni dojrzewania[d],Pora dojrzewania,Mrozoodporność[*C],Odporność na choroby,Plenność,Wielkość gron[g]
-20,Deserowa,Czerwono-Fioletowy,Rosja,217-40-3-1,,,,Wczesna,-24,Wysoka,Wysoka,500
+20,Deserowa,Czerwono-Fioletowy,Rosja,217-40-3-1,8,22,125,Wczesna,-24,Wysoka,Wysoka,300
 20,Deserowa,Jasnożółty,,7/V,,,,Wczesna,-24,Wysoka,Wysoka,300
 20,Deserowa,Żółto-Zielony,Rosja,Ajwiengo,7,18,130,Średnio Wczesna,-24,Podwyższona,Wysoka,800
-17,Deserowa,Żółto-Zielony,Rosja,Alieksa/Aleksa,,,,Wczesna,-25,,,700
+17,Deserowa,Żółto-Zielony,Rosja,Alieksa/Aleksa,6,19,125,Wczesna,-25,,,700
 17,Deserowa,Jasnożółty,Rosja,Aładin/Aładdin,7,19,120,Bardzo Wczesna,-25,Wysoka,Wysoka,600
 20,Deserowa,Żółto-Zielony,Rosja,Ałtaj,7,23,125,Wczesna,-25,Podwyższona,,800
 40,Deserowa,Ciemnoczerwony,Rosja,Bajkonur,4.1,17,115,Wczesna,-20,Bardzo Wysoka,,400
@@ -117,7 +117,7 @@ Winnica Eden[zł],Przeznaczenie,Kolor owoców,Kraj pochodzenia,Nazwa,Zawartość
 30,Deserowa,Fioletowy,,Wioletta,,,,Bardzo Wczesna,-23,Podwyższona,,600
 20,Deserowa,Żółto-Zielony,Rosja,Wostorg Seyve Villarda/Wostorg Idealnyj,7.5,22,125,Wczesna,-25,Podwyższona,Wysoka,700
 20,Deserowa,Fioletowy,Ukraina,WW-3,,,,Wczesna,-24,Podwyższona,Wysoka,600
-17,Deserowa,Jasnożółty,Mołdawia,XIX-42-13,,,,Bardzo Wczesna,-24,Podwyższona,Bardzo Wysoka,500
+17,Deserowa,Jasnożółty,Mołdawia,Ustoicziwyj Nr 13/XIX-42-13,7,17,110,Bardzo Wczesna,-23,Podwyższona,Bardzo Wysoka,500
 20,Deserowa,Granatowy,Ukraina,Zabawa,,,,Bardzo Wczesna,-22,Podwyższona,Wysoka,500
 30,Deserowa,Żółto-Zielony,,Zawrica,,,,Średnio Wczesna,-23,Podwyższona,,600
 20,Deserowa,Czerwono-Fioletowy,,Zefir,,,,Wczesna,-23,Wysoka,Wysoka,400
