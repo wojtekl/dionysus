@@ -1,7 +1,7 @@
 Winnica Eden[zł],Przeznaczenie,Kraj pochodzenia,Kolor owoców,Nazwa,Rodzice,Zawartość kwasów[g/l],Zawartość cukrów[*Bx],Pora dojrzewania,Liczba dni dojrzewania[d],SAT[*C],Mrozoodporność[*C],Odporność na choroby,Odporność na mączniaka rzekomego,Odporność na mączniaka prawdziwego,Odporność na szarą pleśń,Odporność na filokserę,Plenność,Wielkość gron[g],Jagody[g],Wzrost
 20,Deserowa,Rosja Nowoczerkassk,Ciemny Czerwono-Fioletowy,217-40-3-1,Tur Hieierdał x Aelita,8,22,Wczesna,125,2450,-24,Wysoka,8,7,8,,Wysoka,300,6,Średni
 20,Deserowa,,Jasnożółty,7/V,,,,Wczesna,,,-24,Wysoka,,,,,Wysoka,300,,
-20,Deserowa,Rosja Nowoczierkassk,Żółto-Zielony/Jasny białe z różowym rumieńcem,Ajwiengo/IV–11–4-2,Timur x Wostorg,7,18,Średnio Wczesna,130,2550,-24,Podwyższona,7,6,7,,Wysoka/Niska,800,9,Silny
+20,Deserowa,Rosja Nowoczierkassk,Żółto-Zielony/Jasny białe z różowym rumieńcem,Ajwiengo/IV–11–4-2,Timur x Wostorg,7,18,Średnio Wczesna,130,2550,-24,Podwyższona,7,6,7,,Niska,800,9,Silny
 17,Deserowa,Rosja Nowoczerkassk,Żółto-Zielony/Zielono-żółty,Alieksa/Aleksa/VI - 3 - 3 – 8,Biruinca x Wostorg,6,19,Wczesna/Średnio wczesna,125,2550,-25,Podwyższona,7,6,8,,Powyżej średniej,700,10,Bardzo silny
 17,Deserowa,Rosja Nowoczerkassk,Jasnożółty/Jasny żółto-różowy,Aładin/Aładdin/Alladin,Wostorg Krasnyj x Wostorg Muskatnyj,7,22,Bardzo Wczesna/Wczesna,120,,-25,Wysoka,7,7,8,,Wysoka,600,8,Średni
 20,Deserowa,Rosja,Żółto-Zielony/Jasny zielono - żółte,Ałtaj,Wostorg x Frumoasa Albe,8,23,Wczesna/Średnio wczesna,130,2700,-25,Podwyższona,7,7,7,,Wysoka,800,15,Bardzo silny
@@ -14,7 +14,7 @@ Winnica Eden[zł],Przeznaczenie,Kraj pochodzenia,Kolor owoców,Nazwa,Rodzice,Zaw
 14,Przerobowa,Niemcy,Granatowy,Cabernet Cantor,,8,21,Średnio Wczesna,,,-24,Wysoka,,,,,Wysoka,150,,
 20,Deserowa,Rosja Nowoczierkassk,Jasnożółty/Jasny biało-żółte zdelikatnym różowym rumieńcem,Cerkiewne Dzwony/FV - 2 – 10,Erumoasa Albe x Wostorg,7,22,Bardzo Wczesna,115,2150,-25,Podwyższona,7,6,7,,Wysoka,500,6,Średnio silny
 20,Deserowa,Ukraina,Granatowy,Charlie,,8,22,Średnio Wczesna,120,,-24,Podwyższona,,,,,Wysoka,600,,
-20,Deserowa,,Żółto-Zielony,Chrustik,,,,Wczesna,,,,Wysoka,,,,,Wysoka,400,,
+20,Deserowa,Ukraina (Bogdan Pawlij),Żółto-Zielony/Jasny biało-żółte,Chrustik/ Hrustik,,6,17,Wczesna/Bardzo wczesna,,,-26,Wysoka,,,,,Wysoka,400,7,Silny
 40,Deserowa,,Granatowy,Ciernyj Woron,,,,,,,-23,Podwyższona,,,,,,700,,
 20,Deserowa,,Żółto-Zielony,Darinka,,,,Wczesna,,,,Bardzo Wysoka,,,,,,,,
 20,Deserowa,,Różowy,Daszenka,,,,Wczesna,,,-24,Wysoka,,,,,Wysoka,600,,
